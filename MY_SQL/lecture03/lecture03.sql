@@ -8,6 +8,3 @@ update product_master set qtyonhand = 10 where description = 'Trousers';
 delete from product_master where description = 'Shirts';
 
 
-
-
-
